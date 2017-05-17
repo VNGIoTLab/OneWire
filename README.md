@@ -20,6 +20,7 @@ Note:
 
 * You can use examples in this repository for sensors, PROM, switch.
 
-* For temperature sensors (DS18x20) of Dallas. You can use OneWire library and [Arduino-Temperature-Control-Library] (https://github.com/milesburton/Arduino-Temperature-Control-Library) together for your application.
+* For temperature sensors (DS18x20) of Dallas. You can use OneWire library and [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) together for your application.
+
 
 
